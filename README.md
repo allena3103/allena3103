@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, there! I'm **Allen Arriaga**
 
-<!--
-**allena3103/allena3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I’m **Allen Arriaga**, a data-driven Informatics student at the University of Massachusetts Amherst (Graduating **December 2026**) with a strong foundation in **data analysis, statistical modeling, machine learning, and backend development**. I’ve applied my skills across academic, freelance, and personal projects—ranging from predictive analytics for small businesses to customer behavior modeling, health data regression, and game-market forecasting.  
+My passion lies in transforming messy real-world data into clear insights, interactive dashboards, efficient backend systems, and research-backed recommendations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 My Interests  
+- **Data Science & Machine Learning**  
+- **Business Analytics & Customer Insights**  
+- **Health Informatics & Statistical Modeling**  
+- **Backend Development (FastAPI, PostgreSQL)**  
+- **Data Visualization & Dashboarding**  
+- **End-to-end Problem Solving**
+
+---
+
+## 🛠 Skills  
+
+### **Programming Languages**
+- Python • SQL • R • Java • HTML/CSS  
+
+### **Developer Tools**
+- PostgreSQL • MySQL • Power BI • Tableau • Excel  
+- Jupyter Notebook • RStudio • Google Colab  
+- Git/GitHub • VS Code  
+
+### **Data Skills**
+- Statistical Modeling  
+- Predictive Analytics  
+- Data Cleaning & Transformation  
+- Large Dataset Manipulation  
+- Data Visualization & Storytelling  
+
+### **Soft Skills**
+- Communication • Teamwork • Adaptability  
+- Time Management • Working Under Pressure  
+- Creative Problem-Solving  
+
+---
+
+## 📫 How to Reach Me  
+- **LinkedIn:** https://www.linkedin.com/in/allen-arriaga-a7b08b324  
+- **GitHub:** *Your GitHub Profile Link*  
+- **Email:** allen.norwood31@icloud.com  
