@@ -26,4 +26,4 @@ I’m **Allen Arriaga**, a data-driven Informatics student at the University of 
 
 ## 📫 How to Reach Me  
 - **LinkedIn:** https://www.linkedin.com/in/allen-arriaga-a7b08b324  
-- **Email:** allen.norwood31@icloud.com  
+- **Email:** allenarriaga10@gmail.com 
