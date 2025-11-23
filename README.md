@@ -17,25 +17,10 @@ I’m **Allen Arriaga**, a data-driven Informatics student at the University of 
 
 ## 🛠 Skills  
 
-### **Programming Languages**
-- Python • SQL • R • Java • HTML/CSS  
-
-### **Developer Tools**
-- PostgreSQL • MySQL • Power BI • Tableau • Excel  
-- Jupyter Notebook • RStudio • Google Colab  
-- Git/GitHub • VS Code  
-
-### **Data Skills**
-- Statistical Modeling  
-- Predictive Analytics  
-- Data Cleaning & Transformation  
-- Large Dataset Manipulation  
-- Data Visualization & Storytelling  
-
-### **Soft Skills**
-- Communication • Teamwork • Adaptability  
-- Time Management • Working Under Pressure  
-- Creative Problem-Solving  
+**Languages:** Python • SQL • R • Java • HTML/CSS  
+**Tools:** PostgreSQL • MySQL • Power BI • Tableau • Excel • Jupyter • RStudio • Google Colab • Git/GitHub • VS Code  
+**Data:** Statistical Modeling • Predictive Analytics • Data Cleaning • Feature Engineering • Large-Scale Data Manipulation • Visualization  
+**Soft Skills:** Communication • Teamwork • Adaptability • Time Management • Problem-Solving  
 
 ---
 
